@@ -124,3 +124,39 @@ img.wrap{
     margin-top: 30px;
 
 }
+
+@media screen (max-width: 980px) {
+    .contact {
+        width: 980px
+    }
+    .index {
+        width: 980px
+    }
+    .portfolio {
+        width: 980px
+    }
+}
+
+@media screen (max-width: 768px) {
+    .contact {
+        width: 768px
+    }
+    .index {
+        width: 768px
+    }
+    .portfolio {
+        width: 768px
+    }
+}
+
+@media screen (max-width: 640px) {
+    .contact {
+        width: 640px
+    }
+    .index {
+        width: 640px
+    }
+    .portfolio {
+        width: 640px
+    }
+}
